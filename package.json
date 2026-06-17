@@ -1,0 +1,20 @@
+{
+  "name": "hexlet-js-project",
+  "version": "1.0.0",
+  "description": "My first project",
+  "homepage": "https://github.com/Foxtery/hexlet-js#readme",
+  "bugs": {
+    "url": "https://github.com/Foxtery/hexlet-js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Foxtery/hexlet-js.git"
+  },
+  "license": "ISC",
+  "author": "Foxtery",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
